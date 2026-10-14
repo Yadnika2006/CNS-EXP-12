@@ -1,5 +1,5 @@
 # Cryptography Lab Experiments
-# Parth Patil TE AIDS 124A8078
+# Vaidehi Patil TE AIDS 124A8082
 This repository contains the implementation and output of cryptography laboratory experiments performed using Python and PyCryptodome.
 
 ## Experiments Included
